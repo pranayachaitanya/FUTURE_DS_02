@@ -30,4 +30,5 @@ This dashboard provides a comprehensive view of customer retention and churn pat
 - User-Friendly Layout: Clear segmentation of retention vs churn drivers for quick decision-making.
 - 
 ✅ Conclusion
+
 This dashboard demonstrates how customer churn is influenced by service type, billing preferences, and support availability. By focusing on fiber optic customers, electronic check users, and those lacking tech support, businesses can design targeted retention strategies. The insights provide a strong foundation for predictive modeling and proactive customer engagement.
