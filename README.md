@@ -1,5 +1,6 @@
 # FUTURE_DS_02
 🚀 Customer Retention & Churn Analysis Dashboard
+
 I recently built a dashboard using the Telco Customer Churn Dataset (Kaggle) to explore how customer behavior, billing preferences, and service usage impact churn.
 📌 Overview
 
